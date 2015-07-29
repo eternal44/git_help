@@ -10,3 +10,6 @@ I know I know, it's not the most glamorous but let's start simple, get the basic
   Take a snippet from any text and alphabetize it in two different folders.
 
 * Any others?  Please pass your ideas to jamesyoun710@gmail.com
+
+
+This also might be a good time to discuss naming conventions for our commits, our own merging rules, etc.
